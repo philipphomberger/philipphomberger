@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🔭 What I do ? 
-I'm developer and security researcher.
+I'm a IT Operation (IT-Systems Engineer) working the GitOps Way.
 
 ## 👯 Skills / Languages
 - `Ansible` Great
