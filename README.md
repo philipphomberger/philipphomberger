@@ -21,7 +21,7 @@ I'm a IT Operation (IT-Systems Engineer) working the GitOps Way.
 - `Ansible` Great
 - `Powershell` Great
 - `Bash` Great
-- `C#` Good
+- `C#` Not Bad
 - `HTML ` Good
 - `ElasticSearch` Good
 - `DATABASE : MySQL, MongoDB, SQL Server` Good
