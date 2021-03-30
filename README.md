@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🔭 What I do ? 
+I'm developer and security researcher.
+
+## 👯 Skills / Languages
+- `Ansible` Great
+- `Powershell` Great
+- `Bash` Great
+- `C#` Good
+- `HTML ` Good
+- `ElasticSearch` Good
+- `DATABASE : MySQL, MongoDB, SQL Server` Good
+- `OS : Windows Server, Linux Server` Great
+
+## 🌱 I’m currently learning ...
+- Selenium 
+- Golanng
+- C++
+
+## 🔭 I’m currently working on ...
+- CI/CD Pipelines with ansible for differently BI TOOLS
+
+## 📫 How to reach me: ...
+- E-Mail: philipp.homberger@gmail.com
+- Linkedin: https://www.linkedin.com/in/philipp-homberger-208910189/
+- XING: https://www.xing.com/profile/Philipp_Homberger2
