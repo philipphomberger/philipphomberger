@@ -29,7 +29,7 @@ I'm a IT Operation (IT-Systems Engineer) working the GitOps Way.
 
 ## 🌱 I’m currently learning ...
 - Selenium 
-- Golanng
+- Golang
 - C++
 
 ## 🔭 I’m currently working on ...
