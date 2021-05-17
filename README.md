@@ -21,10 +21,13 @@ I'm a IT Operation (IT-Systems Engineer) working the GitOps Way.
 - `Ansible` Great
 - `Powershell` Great
 - `Bash` Great
+- `Terraform` Great
 - `C#` Not Bad
 - `HTML ` Good
 - `ElasticSearch` Good
 - `DATABASE : MySQL, MongoDB, SQL Server` Good
+- `Docker :` Good
+- `Kubernetes :` Not Bad
 - `OS : Windows Server, Linux Server` Great
 
 ## 🌱 I’m currently learning ...
