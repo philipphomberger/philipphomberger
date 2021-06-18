@@ -28,10 +28,10 @@ I'm a IT Operation (IT-Systems Engineer) working the GitOps Way.
 - `DATABASE : MySQL, MongoDB, SQL Server` Good
 - `Docker :` Good
 - `Kubernetes :` Not Bad
+- `Selenium : ` Not Bad
 - `OS : Windows Server, Linux Server` Great
 
 ## 🌱 I’m currently learning ...
-- Selenium 
 - Golang
 - C++
 
