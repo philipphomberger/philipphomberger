@@ -33,7 +33,7 @@ I'm a IT Operation (IT-Systems Engineer) working the GitOps Way.
 
 ## 🌱 I’m currently learning ...
 - Golang
-- C++
+
 
 ## 🔭 I’m currently working on ...
 - CI/CD Pipelines with ansible for differently BI TOOLS
