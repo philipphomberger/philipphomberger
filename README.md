@@ -36,7 +36,7 @@ I am a Devops Developer + a kind of Automation Architect.
 - `OS : Windows Server, Linux Server` Great
 
 ## 🌱 I’m currently learning ...
-- FullStack Developmen
+- FullStack Development
 
 
 ## 🔭 I’m currently working on ...
