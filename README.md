@@ -40,7 +40,7 @@ I am a Devops Developer + a kind of Automation Architect.
 
 
 ## 🔭 I’m currently working on ...
-- Build a FullStack Self Service Portal for the Complete Lifecykle Management of a open source SAAS Solution. 
+- Build a FullStack Self Service Portal for the Complete Lifecycle Management of a open source SAAS Solution. 
 
 ## 📫 How to reach me: ...
 - E-Mail: philipp.homberger@gmail.com
