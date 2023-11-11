@@ -15,28 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🔭 What I do ? 
-I'm a IT Operation (IT-Systems Engineer) working the GitOps Way.
+
+I am a Devops Developer + a kind of Automation Architect.
 
 ## 👯 Skills / Languages
+- `Python` Great
+- `Java Script` Not Bad
+- `Django` Good
+- `VueJS` Not Bad
+- `AzurePipelines` Great
 - `Ansible` Great
 - `Powershell` Great
 - `Bash` Great
 - `Terraform` Great
-- `C#` Not Bad
-- `HTML ` Good
-- `ElasticSearch` Good
 - `DATABASE : MySQL, MongoDB, SQL Server` Good
 - `Docker :` Good
-- `Kubernetes :` Not Bad
+- `Kubernetes :` Good
+- `Helm` Good
 - `Selenium : ` Not Bad
 - `OS : Windows Server, Linux Server` Great
 
 ## 🌱 I’m currently learning ...
-- Golang
+- FullStack Developmen
 
 
 ## 🔭 I’m currently working on ...
-- CI/CD Pipelines with ansible for differently BI TOOLS
+- Build a FullStack Self Service Portal for the Complete Lifecykle Management of a open source SAAS Solution. 
 
 ## 📫 How to reach me: ...
 - E-Mail: philipp.homberger@gmail.com
