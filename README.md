@@ -25,8 +25,8 @@ I am a Devops Developer + a kind of Automation Architect.
 - `VueJS` Not Bad
 - `AzurePipelines` Great
 - `Ansible` Great
-- `Powershell` Great
-- `Bash` Great
+- `Powershell` Not Bad
+- `Bash` Good
 - `Terraform` Great
 - `DATABASE : MySQL, MongoDB, SQL Server` Good
 - `Docker :` Good
