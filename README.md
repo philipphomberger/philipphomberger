@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
 ## 🔭 What I do ? 
 
 I am a Devops Developer + a kind of Automation Architect.
@@ -42,15 +43,16 @@ I am a Devops Developer + a kind of Automation Architect.
 - `Helm` Good
 - `Selenium : ` Not Bad
 - `OS : Windows Server, Linux Server` Great
-
+---
 ## 🌱 I’m currently learning ...
 - FullStack Development
-
+---
 
 ## 🔭 I’m currently working on ...
 - Build a FullStack Self Service Portal for the Complete Lifecycle Management of a open source SAAS Solution. 
-
+---
 ## 📫 How to reach me: ...
 - E-Mail: philipp.homberger@gmail.com
 - Linkedin: https://www.linkedin.com/in/philipp-homberger-208910189/
 - XING: https://www.xing.com/profile/Philipp_Homberger2
+---
