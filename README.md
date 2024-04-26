@@ -18,6 +18,14 @@ Here are some ideas to get you started:
 
 I am a Devops Developer + a kind of Automation Architect.
 
+---
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=philipphomberger&show_icons=true&theme=synthwave)](https://github.com/philipphomberger)
+
+[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=philipphomberger&hide=php&langs_count=8&layout=compact)](https://github.com/philipphomberger)
+
+---
+
 ## 👯 Skills / Languages
 - `Python` Great
 - `Java Script` Not Bad
