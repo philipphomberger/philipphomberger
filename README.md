@@ -45,11 +45,11 @@ I am a Devops Developer + a kind of Automation Architect.
 - `OS : Windows Server, Linux Server` Great
 ---
 ## 🌱 I’m currently learning ...
-- FullStack Development
+- Golang
 ---
 
 ## 🔭 I’m currently working on ...
-- Build a FullStack Self Service Portal for the Complete Lifecycle Management of a open source SAAS Solution. 
+- Learnig AWS and GCP. 
 ---
 ## 📫 How to reach me: ...
 - E-Mail: philipp.homberger@gmail.com
